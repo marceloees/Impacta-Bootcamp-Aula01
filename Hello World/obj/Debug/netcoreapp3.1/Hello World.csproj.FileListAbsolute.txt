@@ -1,0 +1,12 @@
+C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\bin\Debug\netcoreapp3.1\Hello World.exe
+C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\bin\Debug\netcoreapp3.1\Hello World.deps.json
+C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.json
+C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.dev.json
+C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\bin\Debug\netcoreapp3.1\Hello World.dll
+C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\bin\Debug\netcoreapp3.1\Hello World.pdb
+C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfoInputs.cache
+C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfo.cs
+C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\obj\Debug\netcoreapp3.1\Hello World.dll
+C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\obj\Debug\netcoreapp3.1\Hello World.pdb
+C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\obj\Debug\netcoreapp3.1\Hello World.genruntimeconfig.cache
