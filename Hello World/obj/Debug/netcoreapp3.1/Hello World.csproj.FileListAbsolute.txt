@@ -10,3 +10,4 @@ C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\obj\Debug\netc
 C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\obj\Debug\netcoreapp3.1\Hello World.dll
 C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\obj\Debug\netcoreapp3.1\Hello World.pdb
 C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\obj\Debug\netcoreapp3.1\Hello World.genruntimeconfig.cache
+C:\Users\mesilva\source\repos\Impacta-Bootcamp-Aula01\Hello World\obj\Debug\netcoreapp3.1\Hello World.csprojAssemblyReference.cache
